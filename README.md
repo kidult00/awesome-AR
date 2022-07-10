@@ -51,7 +51,7 @@ by [kidult00, ](https://www.zhihu.com/people/kidult) update:2022-07-10
 | [Top Augmented Reality Courses - Coursera](https://www.coursera.org/search?query=augmented%20reality&page=2&index=prod_all_launched_products_term_optimization)|  Coursera courses on AR     |
 | [Introduction to Virtual Reality - Udacity](https://www.udacity.com/course/introduction-to-virtual-reality--ud1012) | ``Udacity`` 101 course by Google VR                          |
 | [Learn ARKit using Unity - Udacity](https://www.udacity.com/course/learn-arkit-using-unity--ud114) | ``Udacity`` course about ARKit development using Unity       |
-| https://realitylab.uw.edu/components/lectures.html)          | Lectures hosted by ``The Reality Lab`` of University of Washington |
+| [The Reality Lab Lectures](https://realitylab.uw.edu/components/lectures.html)          | Lectures hosted by ``The Reality Lab`` of University of Washington |
 | [Arive Lecture Series - HCI Group](https://www.hci.otago.ac.nz/arive2021.html) | Lecture series organised by the HCI lab at the ``University of Otago`` presents lectures given by leading XR experts from New Zealand and Australia. |
 | [Circuit Stream](https://circuitstream.com/)                 | Paid courses focus on immersive technology education         |
 | [Unity tutorials in AR](https://learn.unity.com/search?k=%5B%22q%3Aar%22%5D) | Unity tutorials in AR                                        |
