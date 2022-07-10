@@ -6,11 +6,12 @@ by [kidult00, ](https://www.zhihu.com/people/kidult) update:2022-07-10
 
 ## Content
 
-- [Augmented Reality Introduction](#Augmented Reality Introduction)
+- [Augmented Reality Introduction](#Augmented-Reality-Introduction)
 - [Learning Materials](#Learning-Materials)
-  - [Courses & Lectures](#Courses & Lectures)
+  - [Courses & Lectures](#Courses-&-Lectures)
   - [YouTube Channels](#YouTube-Channels)
   - [Github](#Github)
+  - [Books](#Books)
 - [XR Platforms](#XR-Platforms)
   - [Meta](#Meta)
   - [Apple](#Apple)
@@ -26,7 +27,7 @@ by [kidult00, ](https://www.zhihu.com/people/kidult) update:2022-07-10
   - [Audio/Voice](#Audio/Voice)
   - [Accessibility](#Accessibility)
 
-
+<br>
 
 
 ## Augmented Reality Introduction
@@ -38,13 +39,9 @@ by [kidult00, ](https://www.zhihu.com/people/kidult) update:2022-07-10
 | [VR AR & XR Wiki](https://xinreality.com/wiki/Main_Page)     | Learn the terms       |
 | [What is Augmented Reality - IxDF](https://www.interaction-design.org/literature/topics/augmented-reality) |    An introduction from design perspective  |
 
-
+<br>
 
 ## Learning Materials
-
-[27 Best New Augmented Reality Books To Read In 2022 - BookAuthority](https://bookauthority.org/books/new-augmented-reality-books)
-
-[Must Read AR/VR Books In 2020 | ARPost](https://arpost.co/2020/07/08/must-read-ar-vr-books-in-2020/?utm_source=ARPost+Roundup&utm_campaign=73e7e1a4cc-EMAIL_CAMPAIGN+%23110&utm_medium=email&utm_term=0_aed30e9ace-73e7e1a4cc-159491474)
 
 ### Courses & Lectures
 
@@ -59,7 +56,7 @@ by [kidult00, ](https://www.zhihu.com/people/kidult) update:2022-07-10
 | [Circuit Stream](https://circuitstream.com/)                 | Paid courses focus on immersive technology education         |
 | [Unity tutorials in AR](https://learn.unity.com/search?k=%5B%22q%3Aar%22%5D) | Unity tutorials in AR                                        |
 
-
+<br>
 
 ### YouTube Channels
 
@@ -73,7 +70,7 @@ by [kidult00, ](https://www.zhihu.com/people/kidult) update:2022-07-10
 | [Valem Tutorials](https://www.youtube.com/c/ValemTutorials)|  A channel focusing on learning about Immersive Technologies |
 | [FusedVR](https://www.youtube.com/c/FusedVR) | Vasanth Mohan(Udacity tutor) XR channel |
 
-
+<br>
 
 ### Github
 
@@ -89,19 +86,26 @@ by [kidult00, ](https://www.zhihu.com/people/kidult) update:2022-07-10
 
 
 
+### Books
+
+- [27 Best New Augmented Reality Books To Read In 2022 - BookAuthority](https://bookauthority.org/books/new-augmented-reality-books)
+- [Must Read AR/VR Books In 2020 | ARPost](https://arpost.co/2020/07/08/must-read-ar-vr-books-in-2020/?utm_source=ARPost+Roundup&utm_campaign=73e7e1a4cc-EMAIL_CAMPAIGN+%23110&utm_medium=email&utm_term=0_aed30e9ace-73e7e1a4cc-159491474)
+
+### <br>
+
 ## XR Platforms
 
 ### Meta
 
-[Oculus Experiences: VR Games & Apps for Everyone | Oculus](https://www.oculus.com/experiences/)
+- [Oculus Experiences: VR Games & Apps for Everyone | Oculus](https://www.oculus.com/experiences/)
+- [Connect 2021 |  Meta Conference](https://www.facebookconnect.com/en-us/)
 
-[Connect 2021 |  Meta Conference](https://www.facebookconnect.com/en-us/)
+- [Oculus Developer Center](https://developer.oculus.com/)
 
-[Oculus Developer Center](https://developer.oculus.com/)
-
-[Oculus Research: Creating the Future | Oculus](https://www.oculus.com/research/)
+- [Oculus Research: Creating the Future | Oculus](https://www.oculus.com/research/)
 
 
+<br>
 
 ### Apple
 
@@ -110,42 +114,31 @@ by [kidult00, ](https://www.zhihu.com/people/kidult) update:2022-07-10
 | [ARKit](https://developer.apple.com/augmented-reality/arkit/) | [RealityKit](https://developer.apple.com/augmented-reality/realitykit/) | [RoomPlan](https://developer.apple.com/augmented-reality/roomplan/) | [AR Creation Tools](https://developer.apple.com/augmented-reality/tools/) |
 | --- | --- | --- | --- |
 
-<img src="https://developer.apple.com/design/human-interface-guidelines/images/intro/technologies/technology-augmented-reality-intro.png" style="zoom:20%; display: inline-block;" />
+- [👩🏻‍🎨 Augmented Reality - Human Interface Guidelines - Design](https://developer.apple.com/design/human-interface-guidelines/technologies/augmented-reality/)
+- [Augmented Reality - Topics - WWDC22 - Apple Developer](https://developer.apple.com/wwdc22/topics/augmented-reality/)
 
-[👩🏻‍🎨 Augmented Reality - Human Interface Guidelines - Design](https://developer.apple.com/design/human-interface-guidelines/technologies/augmented-reality/)
-<img src="https://developer.apple.com/wwdc22/images/masthead-22.svg" style="zoom:50%; display: inline-block;" />
-
-[Augmented Reality - Topics - WWDC22 - Apple Developer](https://developer.apple.com/wwdc22/topics/augmented-reality/)
-
-
+<br>
 
 ### Google
 
-[Google AR & VR | Home](https://arvr.google.com/)
+- [Google AR & VR | Home](https://arvr.google.com/)
+- [ ARCore  |  Google Developers](https://developers.google.com/ar)
 
-![](https://developers.google.com/ar/images/logo_96.png)
+- [👩🏻‍🎨 Augmented reality design guidelines  |  ARCore](https://developers.google.com/ar/design)
+- [Glass Enterprise Edition 2 ](https://developers.google.com/glass-enterprise)
 
-[ ARCore  |  Google Developers](https://developers.google.com/ar)
-
-[👩🏻‍🎨 Augmented reality design guidelines  |  ARCore](https://developers.google.com/ar/design)
-
-![](https://developers.google.com/glass-enterprise/images/glass_logo_round_96_96.png)
-
-[Glass Enterprise Edition 2 ](https://developers.google.com/glass-enterprise)
-
-
+<br>
 
 ### Microsoft
 
-[Mixed Reality documentation| Microsoft Docs](https://docs.microsoft.com/en-us/windows/mixed-reality/)
+- [Mixed Reality documentation| Microsoft Docs](https://docs.microsoft.com/en-us/windows/mixed-reality/)
+- [Microsoft HoloLens | Mixed Reality Technology for Business](https://www.microsoft.com/en-us/hololens/)
 
-[Microsoft HoloLens | Mixed Reality Technology for Business](https://www.microsoft.com/en-us/hololens/)
+- [Mixed Reality Toolkit 3 Developer Documentation - MRTK3](https://docs.microsoft.com/en-us/windows/mixed-reality/mrtk-unity/mrtk3-overview/)
 
-[Mixed Reality Toolkit 3 Developer Documentation - MRTK3](https://docs.microsoft.com/en-us/windows/mixed-reality/mrtk-unity/mrtk3-overview/)
+- [👩🏻‍🎨 Start designing and prototyping - Mixed Reality ](https://docs.microsoft.com/en-us/windows/mixed-reality/design/design)
 
-[👩🏻‍🎨 Start designing and prototyping - Mixed Reality ](https://docs.microsoft.com/en-us/windows/mixed-reality/design/design)
-
-
+<br>
 
 ### Others
 
@@ -189,7 +182,7 @@ by [kidult00, ](https://www.zhihu.com/people/kidult) update:2022-07-10
 
   - [商汤科技 - 增强现实](https://www.sensetime.com/cn/technology-detail?categoryId=31&gioNav=1)
 
-
+<br>
 
 ## Research Labs
 
@@ -202,63 +195,61 @@ by [kidult00, ](https://www.zhihu.com/people/kidult) update:2022-07-10
 - Virginia Tech - [3D Interaction Group](https://wordpress.cs.vt.edu/3digroup/)
 - [XR Association](https://xra.org/)
 
-
+<br>
 
 ## HCI
 
 ### Position Tracking & World Reconstruction
 
-[Spatial awareness getting started - MRTK 2 | Microsoft Docs](https://docs.microsoft.com/en-us/windows/mixed-reality/mrtk-unity/mrtk2/features/spatial-awareness/spatial-awareness-getting-started?view=mrtkunity-2022-05)
+- [Spatial awareness getting started - MRTK 2 | Microsoft Docs](https://docs.microsoft.com/en-us/windows/mixed-reality/mrtk-unity/mrtk2/features/spatial-awareness/spatial-awareness-getting-started?view=mrtkunity-2022-05)
+- [World Reconstruction Services | Magic Leap](https://developer.magicleap.com/en-us/learn/guides/world-reconstruction-overview-landing)
 
-[World Reconstruction Services | Magic Leap](https://developer.magicleap.com/en-us/learn/guides/world-reconstruction-overview-landing)
+- [Understanding World Tracking | Apple Developer Documentation](https://developer.apple.com/documentation/arkit/configuration_objects/understanding_world_tracking)
 
-[Understanding World Tracking | Apple Developer Documentation](https://developer.apple.com/documentation/arkit/configuration_objects/understanding_world_tracking)
-
-[Tracking Geographic Locations in AR | Apple Developer Documentation](https://developer.apple.com/documentation/arkit/content_anchors/tracking_geographic_locations_in_ar)
+- [Tracking Geographic Locations in AR | Apple Developer Documentation](https://developer.apple.com/documentation/arkit/content_anchors/tracking_geographic_locations_in_ar)
 
 
+<br>
 
 ### Vision
 
-[Vision | Oculus Developers](https://developer.oculus.com/resources/bp-vision/)
+- [Vision | Oculus Developers](https://developer.oculus.com/resources/bp-vision/)
+- [Rendering | Oculus Developers](https://developer.oculus.com/resources/bp-rendering/)
 
-[Rendering | Oculus Developers](https://developer.oculus.com/resources/bp-rendering/)
-
-
+<br>
 
 ### Body Tracking
 
-[Capturing Body Motion in 3D | Apple Developer Documentation](https://developer.apple.com/documentation/arkit/content_anchors/capturing_body_motion_in_3d)
+- [Capturing Body Motion in 3D | Apple Developer Documentation](https://developer.apple.com/documentation/arkit/content_anchors/capturing_body_motion_in_3d)
+- [Rigging a Model for Motion Capture | Apple Developer Documentation](https://developer.apple.com/documentation/arkit/content_anchors/rigging_a_model_for_motion_capture)
 
-[Rigging a Model for Motion Capture | Apple Developer Documentation](https://developer.apple.com/documentation/arkit/content_anchors/rigging_a_model_for_motion_capture)
+<br>
 
 #### Hand Tracking / Gesture
 
-[Gestures - MRTK 2 | Microsoft Docs](https://docs.microsoft.com/en-us/windows/mixed-reality/mrtk-unity/mrtk2/features/input/gestures?view=mrtkunity-2022-05)
+- [Gestures - MRTK 2 | Microsoft Docs](https://docs.microsoft.com/en-us/windows/mixed-reality/mrtk-unity/mrtk2/features/input/gestures?view=mrtkunity-2022-05)
+- [Hand tracking - MRTK 2 | Microsoft Docs](https://docs.microsoft.com/en-us/windows/mixed-reality/mrtk-unity/mrtk2/features/input/hand-tracking?view=mrtkunity-2022-05)
 
-[Hand tracking - MRTK 2 | Microsoft Docs](https://docs.microsoft.com/en-us/windows/mixed-reality/mrtk-unity/mrtk2/features/input/hand-tracking?view=mrtkunity-2022-05)
+- [Ultraleap Hand Tracking Overview - Ultraleap documentation](https://docs.ultraleap.com/hand-tracking/)
 
-[Ultraleap Hand Tracking Overview - Ultraleap documentation](https://docs.ultraleap.com/hand-tracking/)
+- [How to Design User Interfaces for Oculus Quest Hand Tracking Applications | Circuit Stream](https://circuitstream.com/blog/oculus-quest-hand-tracking/)
 
-[How to Design User Interfaces for Oculus Quest Hand Tracking Applications | Circuit Stream](https://circuitstream.com/blog/oculus-quest-hand-tracking/)
+- [Design – Ultrahaptics Developer Information](https://developer.ultrahaptics.com/kb/design/)
 
-[Design – Ultrahaptics Developer Information](https://developer.ultrahaptics.com/kb/design/)
-
-
+<br>
 
 #### Eye Tracking / Gaze
 
-[Eye Tracking - MRTK 2 | Microsoft Docs](https://docs.microsoft.com/en-us/windows/mixed-reality/mrtk-unity/mrtk2/features/input/eye-tracking/eye-tracking-main?view=mrtkunity-2022-05)
+- [Eye Tracking - MRTK 2 | Microsoft Docs](https://docs.microsoft.com/en-us/windows/mixed-reality/mrtk-unity/mrtk2/features/input/eye-tracking/eye-tracking-main?view=mrtkunity-2022-05)
+- [Gaze - MRTK 2 | Microsoft Docs](https://docs.microsoft.com/en-us/windows/mixed-reality/mrtk-unity/mrtk2/features/input/gaze?view=mrtkunity-2022-05)
 
-[Gaze - MRTK 2 | Microsoft Docs](https://docs.microsoft.com/en-us/windows/mixed-reality/mrtk-unity/mrtk2/features/input/gaze?view=mrtkunity-2022-05)
+- [Tobii AR | Eye Tracking Technology in Augmented Reality](https://ar.tobii.com/)
 
-[Tobii AR | Eye Tracking Technology in Augmented Reality](https://ar.tobii.com/)
+- [VR & AR - Eye tracking - Pupil Labs](https://pupil-labs.com/products/vr-ar/)
 
-[VR & AR - Eye tracking - Pupil Labs](https://pupil-labs.com/products/vr-ar/)
+- [GS Camera for Eye Tracking | AR Eye Tracking | OMNIVISION](https://www.ovt.com/applications/iot-emerging/ar-applications/gs-camera-for-eye-tracking/)
 
-[GS Camera for Eye Tracking | AR Eye Tracking | OMNIVISION](https://www.ovt.com/applications/iot-emerging/ar-applications/gs-camera-for-eye-tracking/)
-
-
+<br>
 
 #### Head Tracking
 
@@ -266,27 +257,25 @@ by [kidult00, ](https://www.zhihu.com/people/kidult) update:2022-07-10
 
 [Tracking and Visualizing Faces | Apple Developer Documentation](https://developer.apple.com/documentation/arkit/content_anchors/tracking_and_visualizing_faces)
 
-
+<br>
 
 ### Input
 
-[Input Overview - MRTK 2 | Microsoft Docs](https://docs.microsoft.com/en-us/windows/mixed-reality/mrtk-unity/mrtk2/features/input/overview?view=mrtkunity-2022-05)
-
-[Controllers - MRTK 2 | Microsoft Docs](https://docs.microsoft.com/en-us/windows/mixed-reality/mrtk-unity/mrtk2/features/input/controllers?view=mrtkunity-2022-05)
+- [Input Overview - MRTK 2 | Microsoft Docs](https://docs.microsoft.com/en-us/windows/mixed-reality/mrtk-unity/mrtk2/features/input/overview?view=mrtkunity-2022-05)
+- [Controllers - MRTK 2 | Microsoft Docs](https://docs.microsoft.com/en-us/windows/mixed-reality/mrtk-unity/mrtk2/features/input/controllers?view=mrtkunity-2022-05)
 
 ![Magic Leap Supported Input Methods](https://developer-content-images.magicleap.com/1Xq6eiGbbKEo8aOQU6cgO4/f106f4a1dfeeb55629f9f2ae84fc0553/InteractionModel_InputMethods_Example__2_.png)
 
-[Raycast Overview | Magic Leap](https://developer.magicleap.com/en-us/learn/guides/raycast-overview)
+- [Raycast Overview | Magic Leap](https://developer.magicleap.com/en-us/learn/guides/raycast-overview)
 
-
+<br>
 
 ### Audio/Voice
 
-[Speech - MRTK 2 | Microsoft Docs](https://docs.microsoft.com/en-us/windows/mixed-reality/mrtk-unity/mrtk2/features/input/speech?view=mrtkunity-2022-05)
+- [Speech - MRTK 2 | Microsoft Docs](https://docs.microsoft.com/en-us/windows/mixed-reality/mrtk-unity/mrtk2/features/input/speech?view=mrtkunity-2022-05)
+- [VR Audio Design, Engineering and Mastering Guide | Oculus Developers](https://developer.oculus.com/resources/bp-audio/)
 
-[VR Audio Design, Engineering and Mastering Guide | Oculus Developers](https://developer.oculus.com/resources/bp-audio/)
-
-
+<br>
 
 ### Accessibility
 
