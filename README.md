@@ -48,13 +48,13 @@ by [kidult00, ](https://www.zhihu.com/people/kidult) update:2022-07-10
 | URL                                                          | Description                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Work with augmented reality and the web - edX](https://learning.edx.org/course/course-v1:CurtinX+APP2x+1T2022/home) | ``edX`` course                                               |
-| [Top Augmented Reality Courses - Coursera](https://www.coursera.org/search?query=augmented%20reality&page=2&index=prod_all_launched_products_term_optimization)|  Coursera courses on AR     |
+| [Top Augmented Reality Courses - Coursera](https://www.coursera.org/search?query=augmented%20reality&page=2&index=prod_all_launched_products_term_optimization) | ``Coursera`` courses on AR                                   |
 | [Introduction to Virtual Reality - Udacity](https://www.udacity.com/course/introduction-to-virtual-reality--ud1012) | ``Udacity`` 101 course by Google VR                          |
 | [Learn ARKit using Unity - Udacity](https://www.udacity.com/course/learn-arkit-using-unity--ud114) | ``Udacity`` course about ARKit development using Unity       |
-| [The Reality Lab Lectures](https://realitylab.uw.edu/components/lectures.html)          | Lectures hosted by ``The Reality Lab`` of University of Washington |
+| [The Reality Lab Lectures](https://realitylab.uw.edu/components/lectures.html) | Lectures hosted by ``The Reality Lab`` of University of Washington |
 | [Arive Lecture Series - HCI Group](https://www.hci.otago.ac.nz/arive2021.html) | Lecture series organised by the HCI lab at the ``University of Otago`` presents lectures given by leading XR experts from New Zealand and Australia. |
 | [Circuit Stream](https://circuitstream.com/)                 | Paid courses focus on immersive technology education         |
-| [Unity tutorials in AR](https://learn.unity.com/search?k=%5B%22q%3Aar%22%5D) | Unity tutorials in AR                                        |
+| [Unity tutorials in AR](https://learn.unity.com/search?k=%5B%22q%3Aar%22%5D) | ``Unity``  tutorials in AR                                   |
 
 <br>
 
@@ -187,6 +187,7 @@ by [kidult00, ](https://www.zhihu.com/people/kidult) update:2022-07-10
 ## Research Labs
 
 - Meta - [Reality Labs](https://tech.fb.com/ar-vr/)
+- Microsoft - [Mixed Reality & AI Lab – Zurich](https://www.microsoft.com/en-us/research/lab/mixed-reality-ai-zurich/), [Mixed Reality & AI Lab – Cambridge](https://www.microsoft.com/en-us/research/lab/mixed-reality-ai-lab-cambridge/)
 - Disney - [Disney Research](https://la.disneyresearch.com/)
 - UW - [UW Reality Lab](https://realitylab.uw.edu/)
 - Oxford -  [Active Vision Laboratory](https://www.robots.ox.ac.uk/ActiveVision/)
@@ -223,7 +224,7 @@ by [kidult00, ](https://www.zhihu.com/people/kidult) update:2022-07-10
 - [Capturing Body Motion in 3D | Apple Developer Documentation](https://developer.apple.com/documentation/arkit/content_anchors/capturing_body_motion_in_3d)
 - [Rigging a Model for Motion Capture | Apple Developer Documentation](https://developer.apple.com/documentation/arkit/content_anchors/rigging_a_model_for_motion_capture)
 
-<br>
+
 
 #### Hand Tracking / Gesture
 
@@ -236,7 +237,7 @@ by [kidult00, ](https://www.zhihu.com/people/kidult) update:2022-07-10
 
 - [Design – Ultrahaptics Developer Information](https://developer.ultrahaptics.com/kb/design/)
 
-<br>
+
 
 #### Eye Tracking / Gaze
 
@@ -249,7 +250,7 @@ by [kidult00, ](https://www.zhihu.com/people/kidult) update:2022-07-10
 
 - [GS Camera for Eye Tracking | AR Eye Tracking | OMNIVISION](https://www.ovt.com/applications/iot-emerging/ar-applications/gs-camera-for-eye-tracking/)
 
-<br>
+
 
 #### Face Tracking
 
