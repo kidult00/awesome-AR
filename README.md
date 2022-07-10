@@ -82,7 +82,7 @@ by [kidult00, ](https://www.zhihu.com/people/kidult) update:2022-07-10
 |  [awesome-augmented-reality: A curated list of mixed reality awesomeness](https://github.com/Domeee/awesome-augmented-reality)| @Domeee |
 | [Awesome-ARKit: A curated list of awesome ARKit projects and resources. Feel free to contribute!](https://github.com/olucurious/Awesome-ARKit)| @olucurious |
 | [learnvr: A repository to collect VR learning resources](https://github.com/misslivirose/learnvr) | @misslivirose |
-|  [AR-Source: AR development resources(增强现实开发资源汇总)](https://github.com/GeekLiB/AR-Source)| by 三次方AIRX |
+| [AR-Source: AR development resources(AR开发资源汇总)](https://github.com/GeekLiB/AR-Source) | by 三次方AIRX |
 
 
 
@@ -251,11 +251,11 @@ by [kidult00, ](https://www.zhihu.com/people/kidult) update:2022-07-10
 
 <br>
 
-#### Head Tracking
-
 #### Face Tracking
 
 [Tracking and Visualizing Faces | Apple Developer Documentation](https://developer.apple.com/documentation/arkit/content_anchors/tracking_and_visualizing_faces)
+
+#### Head Tracking
 
 <br>
 
