@@ -2,7 +2,7 @@
 
 A collection of augmented reality resources for XR enthusiasts 😎
 
-by [kidult00, ](https://www.zhihu.com/people/kidult) update:2022-07-10
+by [kidult00, ](https://www.zhihu.com/people/kidult) update:2022-12-21
 
 ## Content
 
@@ -55,6 +55,7 @@ by [kidult00, ](https://www.zhihu.com/people/kidult) update:2022-07-10
 | [Arive Lecture Series - HCI Group](https://www.hci.otago.ac.nz/arive2021.html) | Lecture series organised by the HCI lab at the ``University of Otago`` presents lectures given by leading XR experts from New Zealand and Australia. |
 | [Circuit Stream](https://circuitstream.com/)                 | Paid courses focus on immersive technology education         |
 | [Unity tutorials in AR](https://learn.unity.com/search?k=%5B%22q%3Aar%22%5D) | ``Unity``  tutorials in AR                                   |
+| [VR Development - Unity Learn](https://learn.unity.com/pathway/vr-development) | ``Unity`` guided learning Pathway will prepare you for a job in the VR industry |
 
 <br>
 
