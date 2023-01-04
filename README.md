@@ -143,26 +143,16 @@ by [kidult00, ](https://www.zhihu.com/people/kidult) update:2022-12-21
 
 ### Others
 
-- MagicLeap - [Magic Leap](https://www.magicleap.com/en-us/),  [Developer Portal](https://developer.magicleap.com/en-us/home),  👩🏻‍🎨[App Design Essentials](https://developer.magicleap.com/en-us/learn/guides/design-essentials)
-
+- MagicLeap - [Magic Leap](https://www.magicleap.com/en-us/), [MagicLeap2 Developer Portal](https://developer-docs.magicleap.cloud/docs/guides/ml2-overview/),  [MagicLeap1 Developer Portal](https://ml1-developer.magicleap.com/en-us/home),  👩🏻‍🎨[App Design Essentials](https://ml1-developer.magicleap.com/en-us/learn/guides/design-essentials)
 - Unity -  [Augmented Reality](https://unity.com/unity/features/ar) , [Unity’s AR Foundation Framework](https://unity.com/unity/features/arfoundation)  ,   [Unity MARS](https://unity.com/products/unity-mars)
-
 - [Unreal Engine for XR](https://www.unrealengine.com/en-US/xr)
-
 - [Ultraleap](https://www.ultraleap.com/) - Former Ultralhaptics & Leap Motion
-
 - [OpenXR ](https://www.khronos.org/openxr/) - Open standard that provides high-performance access to XR
-
 - [Snap AR](https://ar.snap.com/)
-
 - Mozila - [Mozilla Mixed Reality](https://mixedreality.mozilla.org/)
-
 - [WebXR](https://immersiveweb.dev/) - The WebXR Device API
-
 - [VIVE Developer Resources](https://developer.vive.com/resources/?_gl=1*x16puu*_ga*MTY1NDQzNzIyLjE2NTc0NDA0MTY.*_ga_68NRVQF2CG*MTY1NzQ0MDQxNS4xLjEuMTY1NzQ0MDU4Ny4yOQ..)
-
 - [Sony - AR Glasses System](https://www.sony.net/united/apptech/)
-
 - Chinese players：
 
   - [Pico](https://www.pico.com/en/)
